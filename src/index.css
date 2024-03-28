@@ -121,7 +121,6 @@ p {
   left: 52.28vw;
   background-image: url("./image/image.png");
   position: absolute;
-  animation: spinAndMove 10s linear infinite; /* задаем анимацию */
 }
 
 @keyframes spinAndMove {
